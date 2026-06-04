@@ -104,3 +104,11 @@ p {
   font-family: "mclaren", sans;
   font-size: 1.3em;
 }
+
+a:link {
+  color: blue; /* Unclicked links */
+}
+
+a:visited {
+  color: blue; /* Clicked links */
+}
